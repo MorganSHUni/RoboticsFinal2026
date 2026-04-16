@@ -1,9 +1,13 @@
 # PDR System
 Entry for the final robotics assessment, 2026.
 
-## What is the PDR?
+## Description
 The "Personal Delivery Robot" is a small robot designed to deliver items between rooms in your house.
 Originally designed for flats where a ward lives with, or is regularly visited by, a carer, the bot uses colour sensing to travel to various rooms depending on the user's request.
+
+## Usage
+The PDR can:
+1. Identify "stations" and travel between them
 
 ## What is needed to operate the PDR?
 Other than the robot itself, the other thing needed is a FAT32-formatted microSD card.
