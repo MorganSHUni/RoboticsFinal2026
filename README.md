@@ -9,6 +9,7 @@ Originally designed for flats where a ward lives with, or is regularly visited b
 Other than the robot itself, the other thing needed is a FAT32-formatted microSD card.
 
 ## How to use the PDR?
+### Initial Setup
 1. Using red to indicare routes and blue to indicate a station, determine which area is your "Base Station".
   The "Base Station" is the location your PDR will use to determine routes to other rooms, and also, where it will go to power down.
 2. Mark an area completely in blue tape.
@@ -18,8 +19,23 @@ Other than the robot itself, the other thing needed is a FAT32-formatted microSD
 5. Turn on the PDR (with the microSD card inserted) and set it at the "Base Station" facing the direction you want it to go.
 6. Click "Add Stations" and enter the number of stations set up and connected, not including the "Base Station".
 
-# Development
-technology
-how we made it
-references
+### Main Menu
+Everything the PDR can do is accessible through the Main Menu. 
+All that is needed is to press the appropriate buttons, and for the PDR to be located at a Station.
+1. Add Stations -> Press Left button
+3. Toggle Lid -> Press Click button
+4. Travel to Station -> Press Right button
+
+#### Add Stations
+This will cause the PDR to recalibrate, so please turn the PDR off, establish stations, and connect routes **before** recalibrating the PDR.
+
+
+# Development Process
+**Technology Used:** VEX EXP
+**Research:** Please see the Design Specification for our initial development plans
+## References
+##### Source - https://stackoverflow.com/a/60982598
+    # Posted by Aplet123
+    # Retrieved 2026-04-13, License - CC BY-SA 4.0
+    actualData = [x.decode(encoding="utf-8") for x in rawData.split(b"\x00") if len(x)]
 
