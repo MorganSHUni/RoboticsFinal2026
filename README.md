@@ -25,14 +25,16 @@ All that is needed is to press the appropriate buttons, and for the PDR to be lo
 1. Add Stations -> Press Left button
 3. Toggle Lid -> Press Click button
 4. Travel to Station -> Press Right button
-
-#### Add Stations
+### Add Stations
 This will cause the PDR to recalibrate, so please turn the PDR off, establish stations, and connect routes **before** recalibrating the PDR.
 
 
 # Development Process
 **Technology Used:** VEX EXP
 **Research:** Please see the Design Specification for our initial development plans
+
+
+
 ## References
 ##### Source - https://stackoverflow.com/a/60982598
     # Posted by Aplet123
