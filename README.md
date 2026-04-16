@@ -31,6 +31,7 @@ This will cause the PDR to recalibrate, so please turn the PDR off, establish st
 
 # Development Process
 **Technology Used:** VEX EXP
+
 **Research:** Please see the Design Specification for our initial development plans
 
 
