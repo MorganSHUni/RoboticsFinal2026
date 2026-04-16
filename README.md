@@ -1,5 +1,7 @@
 # PDR System
 Entry for the final robotics assessment, 2026.
+Due to File size issues, the associated video will be linked here:
+[https://drive.google.com/drive/folders/1Vdectq-4y7cVvt1QVIeKVIytx-RqZOGm]
 
 ## Description
 The "Personal Delivery Robot" is a small robot designed to deliver items between rooms in your house.
@@ -37,8 +39,6 @@ This will cause the PDR to recalibrate, so please turn the PDR off, establish st
 **Technology Used:** VEX EXP
 
 **Research:** Please see the Design Specification for our initial development plans
-
-
 
 ## References
 ##### Source - https://stackoverflow.com/a/60982598
