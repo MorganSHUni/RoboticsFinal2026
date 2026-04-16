@@ -40,6 +40,11 @@ This will cause the PDR to recalibrate, so please turn the PDR off, establish st
 
 **Research:** Please see the Design Specification for our initial development plans
 
+## AI Transparency Statement:
+In this project we have used AI up to AITS2 - AI was used to aid with initial research and concept development, and for suggesting alternatives.
+In particular, AI was used to facilitate concepts for the Design Specification, but not used in generating code nor any other development areas.
+
+
 ## References
 ##### Source - https://stackoverflow.com/a/60982598
     # Posted by Aplet123
